@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Aryaman's Personal Repository
+Hey, I'm Aryaman Chauhan, a student in 4th year of my esteemed institution, Birla Institute of Technology and Science, Pilani, where I'm a dual degree student studying M.Sc.(Hons.) Physics + B.E.(Hons) Computer Science. I'm a model student who is highly interested in the field of Artificial Intelligence. Nice to meet you.
 <!--
 **Aryaman-Chauhan/Aryaman-Chauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
